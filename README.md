@@ -288,6 +288,4 @@ flutter build ios --release
 
 ---
 
-## 📞 Support
 
-Built by Zain — University of Gujrat, CS 2023–2027
